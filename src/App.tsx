@@ -9,6 +9,7 @@ import NotFound from "./pages/NotFound";
 import Feed from "./pages/Feed";
 import Profile from "./pages/Profile";
 import NavBar from "./components/layout/NavBar";
+import CreatePostForm from "./components/feed/CreatePostForm";
 
 const queryClient = new QueryClient();
 
